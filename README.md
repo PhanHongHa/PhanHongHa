@@ -1,12 +1,12 @@
 # 💫About Me :
-💫About Me :
-😄 I'm Phan Hong Ha
-🔭 This is my github
-🌱 I am a student at Thu Dau Mot University, Ho Chi Minh City
-⚡ Language: Java, C#, Python,...
-👯 Framework:  Spring boot, ASP .Net,...
-📫 Database: Oracle, SQLServer
-🔭 OOP, Data structures and algorithms
+##💫About Me :
+##😄 I'm Phan Hong Ha
+##🔭 This is my github
+##🌱 I am a student at Thu Dau Mot University, Ho Chi Minh City
+##⚡ Language: Java, C#, Python,...
+##👯 Framework:  Spring boot, ASP .Net,...
+##📫 Database: Oracle, SQLServer
+##🔭 OOP, Data structures and algorithms
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hongha.phan.2001/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/phanhongha2001) 
